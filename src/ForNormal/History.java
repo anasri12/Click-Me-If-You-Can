@@ -1,9 +1,9 @@
 package ForNormal;
 
+import ForPlay.Playing;
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
-import ForPlay.Playing;
 
 public class History extends JPanel implements ActionListener {
 

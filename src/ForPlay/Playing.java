@@ -1,15 +1,12 @@
 package ForPlay;
 
+import ForNormal.*;
 import java.awt.*;
 import java.awt.event.*;
 import java.awt.image.MemoryImageSource;
-
-import javax.swing.*;
-
-import ForNormal.*;
-
-import java.util.Random;
 import java.util.Date;
+import java.util.Random;
+import javax.swing.*;
 
 public class Playing extends JPanel implements ActionListener, MouseListener, MouseMotionListener {
 	/**

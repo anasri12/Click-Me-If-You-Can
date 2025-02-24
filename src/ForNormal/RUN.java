@@ -3,7 +3,6 @@ package ForNormal;
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.util.Date;
-
 import javax.swing.JFrame;
 
 public class RUN extends MyFrame{

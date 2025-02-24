@@ -2,7 +2,6 @@ package ForNormal;
 
 import java.awt.*;
 import java.util.Date;
-
 import javax.swing.*;
 
 public class MyFrame{
